@@ -12,7 +12,7 @@ namespace Minesweeper
 {
     public partial class Form1 : Form
     {
-        List<Button> btnList;
+        List<Button> btnList; //
         public Form1()
         {
             InitializeComponent();
